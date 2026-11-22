@@ -1,0 +1,11 @@
+{
+  "org": "sindresorhus",
+  "repo": "tempy",
+  "versions": [
+    {
+      "commit": "6c0f2ccdfabc37ce002d8c073457bc447c089d20",
+      "tag": "v3.2.0",
+      "parsed_at": "2026-11-22T05:05:15.635313+00:00"
+    }
+  ]
+}
