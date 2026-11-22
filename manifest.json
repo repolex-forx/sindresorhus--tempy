@@ -24,6 +24,117 @@
       ],
       "ast": [
         "aggregate/ast/6c0f2ccdfabc37ce002d8c073457bc447c089d20/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6c0f2ccdfabc37ce002d8c073457bc447c089d20.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "is-stream",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "is-stream",
+          "githubCommit": "6913e344ab2dd63041bb7c03095876ce5a7e0a8b",
+          "githubTag": "v3.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/is-stream.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "temp-dir",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "temp-dir",
+          "githubCommit": "b84f39c50d4767e8f1b19ba920665c0ed16d6e95",
+          "githubTag": "v3.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/temp-dir.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "type-fest",
+          "ecosystem": "NPM",
+          "version": "2.12.2",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "type-fest",
+          "githubCommit": "20fa30a64247910e37ee12c2d96c59bf1f9f776e",
+          "githubTag": "v2.12.2",
+          "githubUrl": "git+https://github.com/sindresorhus/type-fest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "unique-string",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "unique-string",
+          "githubCommit": "bbb5d66aa474cab942dfa5b412f74d9ac68b976d",
+          "githubTag": "v3.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/unique-string.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "20.4.1",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "ava",
+          "ecosystem": "NPM",
+          "version": "5.3.1",
+          "githubOrg": "avajs",
+          "githubRepo": "ava",
+          "githubCommit": "306e37c3d87e711a0a6f548b5efcb22fb424925d",
+          "githubTag": "v5.3.1",
+          "githubUrl": "git+https://github.com/avajs/ava.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "path-exists",
+          "ecosystem": "NPM",
+          "version": "5.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "path-exists",
+          "githubCommit": "7c95f5c1f5f811c7f4dac78ab5b9e258491f03af",
+          "githubTag": "v5.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/path-exists.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "touch",
+          "ecosystem": "NPM",
+          "version": "3.1.0",
+          "githubOrg": "isaacs",
+          "githubRepo": "node-touch",
+          "githubCommit": "7706a0d249c72edd90adbeb37ec8d4ca2b9a9a7f",
+          "githubTag": "v3.1.0",
+          "githubUrl": "git://github.com/isaacs/node-touch.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tsd",
+          "ecosystem": "NPM",
+          "version": "0.28.1",
+          "githubOrg": "tsdjs",
+          "githubRepo": "tsd",
+          "githubCommit": "45b209ce5e98fa75be12e5c1ca5959b5e760d7a7",
+          "githubTag": "v0.28.1",
+          "githubUrl": "git+https://github.com/tsdjs/tsd.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "xo",
+          "ecosystem": "NPM",
+          "version": "0.54.2",
+          "githubOrg": "xojs",
+          "githubRepo": "xo",
+          "githubCommit": "423c5178784890ff586f1a2d734b493d41880da2",
+          "githubTag": "v0.54.2",
+          "githubUrl": "git+https://github.com/xojs/xo.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
